@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sq016FirstApi.props" />
+</Project>
